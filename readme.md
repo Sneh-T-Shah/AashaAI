@@ -176,11 +176,7 @@ Future logging will capture:
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-For support, email support@aashaai.com or create an issue in this repository.
+This project is licensed under the MIT License.
 
 ## ⚠️ Disclaimer
 
